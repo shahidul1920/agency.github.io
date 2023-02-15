@@ -281,6 +281,24 @@ h4{
     }
 }
 
+
+.sponsore{
+    text-align: center;
+    padding: 3rem 2rem;
+    width: 100%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    gap: 2rem;
+    background: rgba(140, 176, 140, 0.764);
+    .image{
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
 .lastf{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
