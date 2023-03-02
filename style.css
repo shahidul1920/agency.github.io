@@ -291,6 +291,9 @@ h4 {
   width: 100%;
   height: auto;
 }
+.sponsore .isp {
+  width: 300px;
+}
 
 .lastf {
   display: grid;
